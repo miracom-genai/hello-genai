@@ -1,6 +1,6 @@
 # hello-genai
 
-> Hello Miracom GenAI
+> Hello Miracom GenAI!!!!
 
 ```shell
 $ npm start
